@@ -58,5 +58,6 @@
 【黑果小兵】【微信首发】macOS Monterey 12.1 21C52 Installer for OpenCore 0.7.6 and CLOVER 5143 and WEPE 三 EFI 分区原版镜像：https://blog.daliansky.net/macOS-Monterey-12.1-21C52-Release-version-with-OC-0.7.6-CLOVER-5143-and-FirPE-original-image.html
 
 fanrenkong/Redmibook14-Big-sur ：https://github.com/fanrenkong/Redmibook14-Big-sur
+
 axap288/redmibook-catalina-efi：https://github.com/axap288/redmibook-catalina-efi
 
