@@ -51,7 +51,7 @@
 * 功能键：本机键盘的静音键、音量+、音量-、屏幕亮度+、屏幕亮度-
 * 睡眠唤醒：正常。
 
-
+![](https://raw.githubusercontent.com/axap288/Redmibook-Monterey-EFI/main/sreenshot/Screenshort.png)
 
 ### 参考：
 
